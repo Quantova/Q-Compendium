@@ -24,7 +24,7 @@ Classical public key cryptography is vulnerable to a sufficiently capable quantu
 * Addresses are Q1 bech32m, written with a capital Q.
 * The asset is QTOV. Its base unit is the Quon, where one QTOV is one million Quon. The testnet asset is TQTOV.
 * The gateway is an HTTP POST to `/v1/<method>` with a flat JSON body. See the [gateway reference](/developers/docs/apis/gateway/).
-* The client SDK is the QCore family. QCore.rs is the Rust core, QCore.js is published on npm as `@qunatovainc/qcore`, and QCore.py is the Python binding.
+* The client SDK is the QCore family. QCore.rs is the Rust core, QCore.js is published on npm as `@quantovainc/qcore`, and QCore.py is the Python binding.
 * The fungible token standard is [QAsset](/developers/docs/standards/qasset/). The non fungible standard is [QCollectible](/developers/docs/standards/qcollectible/).
 * The name service is [QNS](/developers/docs/qns/), with domains under a capital Q top level domain such as Jeff.Q.
 
